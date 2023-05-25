@@ -4,7 +4,7 @@ course: https://www.udemy.com/course/docker-kubernetes-the-practical-guide
 Are read write by default
 
 ## names volumes 
-there are saved even after container shutdown in contrast to annonymous containers if --rm argument is used.
+there are saved even after container removal in contrast to annonymous containers if --rm argument is used or container is removed after shutdown.
 Can be shared acress contianers
 
 ## bind mounts 
