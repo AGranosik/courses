@@ -14,4 +14,4 @@ managed data by user
 
 Arguments seems to bahave like some kind of variable inside dokcerfile.
 
-Envarionment works for whole container base on image.
+Envarionment works for whole container based on image.
