@@ -20,3 +20,7 @@ Envarionment works for whole container based on image.
 ##AWS notes - gonna work on some cloud lates so just don't wanna 'waste' free trial now. Just notes now.
 
 it's better to keep connecvtion strings in env becuase container name won't gonna work as connection adress.....
+
+##K8S
+
+Work with OBJECTS
